@@ -1,5 +1,5 @@
-import * as getDate from './getDate';
-var utils = {
-    ...getDate
+import * as Color from './color';
+const utils = {
+    ...Color
 }
 export default utils;
